@@ -1,3 +1,5 @@
 #Ignore saved models and data
-/Models/*
-/Data/*
+/Models/*.h5
+/Data/*.csv
+__pycache__
+*.bak
