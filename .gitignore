@@ -4,3 +4,4 @@
 /Data/amazon-fine-food-reviews/*
 __pycache__
 *.bak
+.ipynb_checkpoints/*
