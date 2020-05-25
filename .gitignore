@@ -1,5 +1,6 @@
 #Ignore saved models and data
 /Models/*.h5
 /Data/*.csv
+/Data/amazon-fine-food-reviews/*
 __pycache__
 *.bak
