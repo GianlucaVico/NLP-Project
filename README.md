@@ -16,13 +16,15 @@ This folder contains the graph obtained from training the models.
 
 This folder contains the trained models, except for the Bayes Model and the dummy models.
 
+The models are aviable here: https://drive.google.com/open?id=1LfDWTKfBoNHn1o_Kq40sD8hWTtO3h-b7
+
 ### StatModel.py
 
 * BayesModel
  Naive Bayes model to predict the score given a sentence
  
  
- ### project.ipynb
+### project.ipynb
  
  Notebook used to process the data, train the models and obtain the output.
  
